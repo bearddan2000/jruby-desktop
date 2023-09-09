@@ -1,0 +1,8 @@
+[2020-10-29 21:51:22 INFO]: install::setup-logging ended
+================
+[2020-10-29 21:51:22 INFO]: install::start-up started
+[2020-10-29 21:51:22 INFO]: install::start-up setting display permissions to localhost
+[2020-10-29 21:51:22 INFO]: install::start-up build image
+[2020-10-29 21:51:22 INFO]: install::start-up running image
+[2020-10-29 21:51:22 INFO]: install::start-up ended
+================
